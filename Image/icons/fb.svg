@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon / social / facebook</title>
+    <g id="icon-/-social-/-facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#015CA1" fill-rule="nonzero" cx="16" cy="16" r="12"></circle>
+        <path d="M14.125,28 L14.125,19.5632848 L11.078125,19.5632848 L11.078125,16.0733361 L14.125,16.0733361 L14.125,13.4134292 C14.125,10.3875494 15.9165156,8.71614691 18.6575781,8.71614691 C19.9704766,8.71614691 21.34375,8.95195425 21.34375,8.95195425 L21.34375,11.9231268 L19.8305781,11.9231268 C18.3398828,11.9231268 17.875,12.8537877 17.875,13.8085716 L17.875,16.0733361 L21.203125,16.0733361 L20.6710937,19.5632848 L17.875,19.5632848 L17.875,28 C16,28 17,28 14.125,28 Z" id="Fill-1" fill="#F5F7FA"></path>
+    </g>
+</svg>

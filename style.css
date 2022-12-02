@@ -1,0 +1,575 @@
+body
+{
+    margin: 0px;
+    
+}
+.main-div
+{
+    overflow: hidden;
+}
+.hedder-div
+{
+    width: 100%;
+    height: 85px;
+    background-color: rgb(255, 255, 255);
+    /* padding-left: 30px; */
+    display: flex;    
+}
+.hedder-sub-logo
+{
+    height: 70%;
+    width: 185px;
+    /* border: 2px black solid; */
+    margin: 10px;
+    padding-left: 20px;
+    content: url(Image/webp/Avathar.webp);
+    
+}
+.hedder-home-div
+{
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.menu-bar
+{
+    font-size: 18px;
+    font-weight: bold;
+}
+nav
+{
+    font-size: 15px;
+    color: #015ca1;
+    font-weight: 549;
+    font-family: proximanova, Matterhorn, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 0%;
+    padding-right: 5%;
+}
+nav ul li
+{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+.hedder-logo-div
+{
+    height: 35px;
+    width: 50px;
+    margin: 20px;
+    display: flex;
+    margin-right: 200px;
+}
+.main-poster-div
+{
+    width: 100%;
+    height: 830px;
+    background-image: linear-gradient(to bottom, transparent -10%,black),url(Image/webp/poster.webp);
+    background-size: cover;
+    
+    /* background-repeat: no-repeat; */
+}
+.main-poster-div
+{
+    padding-left: 75px;
+}
+.main-sub-div
+{
+    height: 150px;
+    width: 475px;
+    margin-left: 635px;
+    padding-top: 420px;
+    content: url(Image/webp/avatharfull.webp);
+}
+.main-sub-disc-div
+{
+    font-size: 18px;
+    margin-top: -20px;
+    margin-left: 50px;
+    color: #ffff;
+}
+.para-class
+{
+    margin-left: 500px;
+    font-size: 22px;
+}
+.para-class-space
+{
+    margin-left: 750px;
+    font-size: 22px;
+    margin-top: -15px;
+}
+.btn1
+{
+    font-weight: bold;
+    border-color: #38e1f4;
+    font-size: 1.2rem;
+    font-family: proximanova, Matterhorn, Helvetica, sans-serif;
+    border-width: 2px;
+    background-color: #243b53;
+    color: #38e1f4;
+    height: 65px;
+    width: 265px;
+    margin-left: 45px;
+    border-radius: 20px 0px 20px 0px;
+}
+.btn2
+{
+    font-weight: bold;
+    border-color: #38e1f4;
+    font-size: 1.2rem;
+    font-family: proximanova, Matterhorn, Helvetica, sans-serif;
+    border-width: 2px;
+    background-color: #243b53;
+    color: #38e1f4;
+    height: 65px;
+    width: 265px;
+    margin-left: 45px;
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+    border-radius: 20px 0px 20px 0px;
+}
+.main-sub-butn-div
+{
+    margin-left: 565px;
+    display: flex;
+}
+.icon
+{
+    height: 25px; 
+    margin-left: -15px;
+}
+.main-content-div
+{
+    
+    width: 100%;
+    height: 320px;
+    background-color: rgb(254, 254, 254);
+}
+.main-content-div
+{
+    padding-top: 50px;
+}
+
+.textclass
+{
+    color: #243b53;
+    font-size: 35px;
+    font-family:toruk, proximanova, Matterhorn, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin-left: 445px;
+}
+.txt
+{
+    font-size: 20px;
+    font-family: Acme, sans-serif;
+    color: #243b53;
+    
+    margin-left: 790px
+}
+.smlogo
+{
+    margin-left: 775px;
+    height: 100px;
+    width: 325px;
+    margin-top: 15px;
+}
+.sub-poster-div
+{
+    height: 250px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+
+}
+.sub-pos1-div
+{
+    margin-left: 90px;
+    border-width: 10px;
+    height: 450px;
+    width: 800px;
+    background-image: linear-gradient(to bottom, transparent -0%,rgb(33, 33, 33)),url(Image/webp/forest.webp);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+}
+
+.txt-div
+{
+    margin-left: 100px;
+}
+.sub-pos2-div
+{
+    height: 850px;
+    width: 800px;
+    margin-left: 50px;
+    border-width: 10px;
+    
+    background-repeat: no-repeat;
+}
+.txt-div-pos1
+{
+    font-size: 22px;
+    color: #ffff;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 350px;
+    margin-left: 20px;
+}
+.para-div-pos1
+{
+    font-size: 21px;
+    color: #ffff;
+    margin-top: -25px;
+    margin-left: 20px;
+}
+.sub-pos2-div
+{
+    margin-left: 120px;
+    border-width: 10px;
+    height: 450px;
+    width: 800px;
+    background-image: linear-gradient(to bottom, transparent -0%,rgb(57, 55, 55)),url(Image/webp/hill.webp);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+}
+.txt-div-pos2
+{
+    font-size: 22px;
+    color: #ffff;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 350px;
+    margin-left: 20px;
+}
+.para-div-pos2
+{
+    font-size: 21px;
+    color: #ffff;
+    margin-top: -25px;
+    margin-left: 20px;
+}
+.news-poster-div
+{
+    margin-top: 250px;
+    height: 650px;
+    background-image: url(Image/webp/backpos.jpeg);
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    display: flex;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    
+
+}
+
+.img1-pos-div
+{
+    height: 285px;
+    width: 525px;
+    background-image: url(Image/webp/pos1.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 70px;
+}
+.txt-para-sub1
+{
+    font-size: 22px;
+    color: #ffff;
+    font-weight: bolder;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-top: 200px;
+    margin-left: 20px;
+}
+.para-para-sub1
+{
+    font-size: 16px;
+    color: #ffff;
+    font-weight:bold;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 20px;
+    margin-top: -20px;
+}
+.img2-pos-div
+{
+    height: 285px;
+    width: 525px;
+    background-image: url(Image/webp/pos2.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 90px;
+}
+
+.img3-pos-div
+{
+    height: 285px;
+    width: 525px;
+    background-image: url(Image/webp/pos3.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 90px; 
+}
+.about-movie-div
+{
+    height: 800px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+}
+.para-tag
+{
+    color: #243b53;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 140px;
+   
+}
+.para-tag1
+{
+    color: #243b53;
+    font-size: 40px;
+    font-weight: bolder;
+    margin-left: 140px;
+    margin-top: -80px;
+}
+.mainclassdiv
+{
+    
+    margin-top: 20px;
+    height: 700px;
+    width: 1660px;
+    margin-left: 100px;
+    
+}
+.image-div1
+{
+    height: 700px;
+    width: 585px;
+    background-image: url(Image/webp/sub/poste\ \(1\).webp);
+    background-repeat: no-repeat;
+   
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 40px;
+    
+}
+.image-div2
+{
+    height: 700px;
+    width: 585px;
+    background-image: url(Image/webp/sub/poste\ \(2\).webp);
+    background-repeat: no-repeat;
+   
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 35px;
+}
+
+.sub-avtar1
+{
+    height: 700px;
+    width: 530px;
+    background-image: url(Image/webp/sub/poste\ \(3\).webp);
+    background-repeat: no-repeat;
+    box-shadow: 5px 10px 10px 5px rgba(0, 0, 0, 0.5); 
+    margin-left: 30px;
+    margin-top: -400px;
+    
+}
+.hrclass hr
+{
+    width: 85%;
+    margin-top: -25px;
+    
+    height: 3px;
+    background-color: #243b53;
+    
+}
+.text-style
+{
+    margin-top: 400px;
+    margin-left: 20px;
+    color: #243b53;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text-hed-style
+{
+    color: #243b53;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 18px;
+    font-weight: bolder;
+}
+.text-para-style
+{
+    color: #243b53;
+    font-size: 19px;
+    margin-left: 18px;
+    font-weight: bolder
+}
+.text-style3
+{
+    padding-top: 400px;
+    margin-top: 400px;
+    margin-left: 20px;
+    color: #243b53;
+    font-size: 18px;
+    font-weight: bold;
+}
+.text-hed-style3
+{
+    color: #243b53;
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 18px;
+    font-weight: bolder;
+}
+.text-para-style3
+{
+    color: #243b53;
+    font-size: 19px;
+    margin-left: 18px;
+    font-weight: bolder
+}
+.alt-image-editor
+{
+    
+    display: flex;
+    margin-top: 0px;
+    height: 700px;
+    width: 1660px;
+    margin-left: 0px;
+    
+}
+.sign-back-pos
+{
+    margin-top: 50px;
+    margin-left: 140px;
+    height: 400px;
+    width: 85.5%;
+    background-image: url(Image/webp/signpos.webp);
+    background-color: darkcyan;
+}
+.email-div
+{
+    font-weight: bolder;
+    font-size: 45px;
+    color: #ffff;
+    padding-top: 175px;
+    margin-left: 125px;
+}
+.para-sign-div
+{
+    font-size: 23px;
+    color: #ffff;
+    margin-left: 125px;
+    margin-top: -20px;
+}
+.btn3
+{
+    margin-top: 0px;
+    background-color: #243b53;
+    color: #38e1f4;
+    font-weight: bolder;
+    border-color: #38e1f4;
+    font-size: 1.2rem;
+    font-family: proximanova, Matterhorn, Helvetica, sans-serif;
+    margin-left: 125px;
+    border-radius: 20px 0px 20px 0px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 20px;
+    padding-bottom: 20PX;
+}
+.sub-footer-poster-div
+{
+    width: 100%;
+    height: 500px;
+    background-image: url(Image/webp/length.webp);
+    background-repeat: no-repeat;
+    background-color: crimson;
+    background-size: cover;
+    background-position: bottom;
+}
+.follow-us-div
+{
+    width: 100%;
+    height: 350px;
+    margin-top: -50px;
+    background-image: url(Image/webp/footerposter.webp);
+    background-size: cover;
+    background-position: bottom;
+    background-color: darkgoldenrod;
+}
+.avatar-follow-footer
+{
+    margin-left: 830px;
+    padding-top: 90px;
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 20px;
+} 
+.footer-icon
+{
+    display: flex;
+    margin-left: 800px;
+}
+.footericon
+{
+    height: 50px;
+    width: 50px;
+    margin-left: 8px;
+}
+.arrow
+{
+    margin-top: 25px;
+    margin-left: 880px;
+}
+.footer-ul
+{
+    display: flex;
+}
+.ul-footer-div
+{
+    display: flex;
+    color: aliceblue;
+    font-weight: bold;
+}
+.nav-footer
+{
+    font-size: 15px;
+    margin-left: 180px;
+    font-weight: 549;
+    font-family: proximanova, Matterhorn, Helvetica, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-left: 0%;
+    padding-right: 5%;
+}
+.footer-lst
+{
+    color: aliceblue;
+    font: 13px;
+    margin-left: 550px;
+    
+    margin-top: -5px;
+}
+.final
+{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
